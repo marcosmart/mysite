@@ -1,0 +1,217 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color: #40514E;
+    font-size: 1.3rem;
+}
+
+h1 {
+    position: relative;
+    font-size: 4.375rem;
+    color: #144c52;
+    z-index: 5;
+}
+
+h2 {
+    color: #144c52;
+    font-size: 2.5rem;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #144c52;
+    font-size: 1.875rem;
+}
+
+hr {
+    /* border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 8px;
+    width: 4%;
+    margin: 50px auto 50px auto; */
+
+    border: #EAF6F6 dotted;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+
+
+}
+
+p {
+    line-height: 2;
+}
+
+.text-bio {
+    width: 30%;
+    margin: auto;
+}
+
+.top-container {
+    background-color: #79bac1;
+    position: relative;
+    padding: 10% 0 0 0;
+}
+
+.top-cloud {
+    position: absolute;
+    width: 8%;
+    left: 15%;
+    top: 5%;
+}
+
+.top-cloud02 {
+    position: absolute;
+    width: 8%;
+    left: 15%;
+    top: 40%;
+}
+
+.mountain {
+    width: 35%;
+    display: block;
+    margin: auto;
+}
+
+.bot-cloud {
+    position: absolute;
+    width: 8%;
+    right: 15%;
+    top: 10%
+}
+
+.bot-cloud02{
+    position: absolute;
+    width: 8%;
+    right: 10%;
+    top: 40%;
+}
+
+.profile-pic {
+    width: 14.5%;
+    margin-top: 50px;
+}
+
+.list-skills{
+    list-style-type: none;
+    text-align: left;
+}
+
+.mid-container {
+    padding: 100px 0;
+}
+
+.bot-container {
+    background-color: #79bac1;
+    padding: 40px;
+}
+
+.skill-row {
+    margin: 100px auto 100px auto;
+    width: 50%;
+    text-align: left;
+}
+
+.skill-text {
+    line-height: 12px;
+    color: #f1f3f4;
+    
+}
+
+.skill-text02 {
+    line-height: 12px;
+    text-align: right;
+    color: #f1f3f4;
+}
+
+.colour-text {
+    color: #f1f3f4;
+    font-weight: bolder;
+}
+
+.lang-text {
+    text-align: right;
+    color: #f1f3f4
+}
+
+.coding {
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+
+.language {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.skills {
+    position: relative;
+    background-color: #2a7886;
+    /* padding: 50px;
+    border-radius: 250px 250px;
+    margin: 50px auto;
+
+    position: relative; */
+    padding: 50px 0;
+    margin: 100px 20px;
+    border-radius: 15.625vw 15.625vw;
+}
+
+.email-button {
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-size: 1.25em;
+    padding: 10px;
+    background-color: #66BFBF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    }
+    
+    .email-button:hover {
+    background: #79bac1;
+    background-image: -webkit-linear-gradient(top, #79bac1, #3D94F6);
+    background-image: -moz-linear-gradient(top, #79bac1, #3D94F6);
+    background-image: -ms-linear-gradient(top, #79bac1, #3D94F6);
+    background-image: -o-linear-gradient(top, #79bac1, #3D94F6);
+    background-image: linear-gradient(to bottom, #79bac1, #3D94F6);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    }
+
+    .footer-link {
+        color: rgb(25, 132, 136);
+        text-decoration: none;
+        font-family: 'Montserrat', sans-serif;
+        margin: 50px;
+    }
+
+    .footer-link:hover {
+        color: honeydew;
+    }
+
+    .footer-final {
+    color: #f1f3f4;
+    position: relative;
+    top: 50px;
+    font-size: 18px;
+    }   
+
+    .contact-me {
+       background-color: #b5d3d6;
+       border-radius: 15.625vw 15.625vw;
+       margin: 100px 20px;
+       padding: 30px;
+    }
