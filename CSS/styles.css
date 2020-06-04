@@ -25,12 +25,6 @@ h3 {
 }
 
 hr {
-    /* border-style: none;
-    border-top-style: dotted;
-    border-color: grey;
-    border-width: 8px;
-    width: 4%;
-    margin: 50px auto 50px auto; */
 
     border: #EAF6F6 dotted;
     border-bottom: none;
@@ -45,7 +39,7 @@ p {
 }
 
 .text-bio {
-    width: 30%;
+    width: 100%;
     margin: auto;
 }
 
