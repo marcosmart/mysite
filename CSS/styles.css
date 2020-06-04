@@ -40,7 +40,7 @@ p {
 
 .text-bio {
     width: 100%;
-    margin: auto;
+    margin: auto 5px;
 }
 
 .top-container {
